@@ -1,1 +1,1 @@
-My first readme
+This is in zero day directory
